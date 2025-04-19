@@ -23,7 +23,8 @@ ai-insurance-agent/
 └── main.py                    # Orchestrates the full flow
 ---
 
-🚀 How It Works
+## 🚀 How It Works
+
 Scraping: Uses scraper.py to fetch relevant articles from the web or news APIs.
 
 Classification: Articles are categorized into domains (e.g., Climate Risk) using classify.py.
@@ -38,9 +39,12 @@ Reporting: report_generator.py compiles a final structured report (reports.json)
 
 Dashboard: dashboard.py powers the homepage interface to view outputs.
 
-🛠️ Setup Instructions
+---
+
+## 🛠️ Setup Instructions
 1. Clone the Repository
-```
+
+```css
 git clone https://github.com/NomikaGajula/ai-insurance-agent.git
 cd ai-insurance-agent
 
