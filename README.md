@@ -50,3 +50,25 @@ cd ai-insurance-agent
 ```
 ---
 
+2. (Optional) Create a Virtual Environment
+
+```css
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+```
+3. Install Dependencies
+
+```css
+pip install -r requirements.txt
+```
+
+## 💼 Use Cases
+
+📢 Insurance Agents – Get daily curated summaries on relevant topics.
+
+🔍 Risk Analysts – Track climate, economic, and geopolitical trends.
+
+💡 Decision Makers – Quickly extract insights from the flood of information.
+
+
+
