@@ -21,7 +21,7 @@ ai-insurance-agent/
 ├── requirements.txt
 ├── README.md
 └── main.py                    # Orchestrates the full flow
-
+---
 
 🚀 How It Works
 Scraping: Uses scraper.py to fetch relevant articles from the web or news APIs.
@@ -37,4 +37,12 @@ Insight Generation: insights.py derives key insights and takeaways.
 Reporting: report_generator.py compiles a final structured report (reports.json).
 
 Dashboard: dashboard.py powers the homepage interface to view outputs.
+
+🛠️ Setup Instructions
+1. Clone the Repository
+```
+git clone https://github.com/NomikaGajula/ai-insurance-agent.git
+cd ai-insurance-agent
+
+---
 
