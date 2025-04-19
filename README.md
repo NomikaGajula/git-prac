@@ -22,7 +22,7 @@ ai-insurance-agent/
 ├── README.md
 └── main.py                    # Orchestrates the full flow
 
----
+```
 
 ## 🚀 How It Works Project
 
@@ -40,7 +40,7 @@ Reporting: report_generator.py compiles a final structured report (reports.json)
 
 Dashboard: dashboard.py powers the homepage interface to view outputs.
 
----
+```
 
 ## 🛠️ Setup Instructions
 1. Clone the Repository
@@ -48,6 +48,6 @@ Dashboard: dashboard.py powers the homepage interface to view outputs.
 ```css
 git clone https://github.com/NomikaGajula/ai-insurance-agent.git
 cd ai-insurance-agent
-
+```
 ---
 
