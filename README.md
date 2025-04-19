@@ -40,9 +40,8 @@ Reporting: report_generator.py compiles a final structured report (reports.json)
 
 Dashboard: dashboard.py powers the homepage interface to view outputs.
 
-```
-
 ## 🛠️ Setup Instructions
+
 1. Clone the Repository
 
 ```css
