@@ -21,9 +21,10 @@ ai-insurance-agent/
 ├── requirements.txt
 ├── README.md
 └── main.py                    # Orchestrates the full flow
+
 ---
 
-## 🚀 How It Works
+## 🚀 How It Works Project
 
 Scraping: Uses scraper.py to fetch relevant articles from the web or news APIs.
 
